@@ -1,0 +1,6 @@
+While loop
+
+ATM verification with if loop nested in while
+
+String types:
+Strings, stringBuffer, stringBuilder

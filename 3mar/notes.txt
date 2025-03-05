@@ -1,0 +1,22 @@
+inputs from keyboards:
+
+Scanner Class
+BufferedReaderClass(for large inputs)
+ConsoleClass(for secure input like passwords)
+DataInputStream(Deprecated)
+Command Line Arguements(Used in main method)
+
+Methods:
+
+next(): Reads a single word(until space)
+nextLine(): Reads the full line input
+nextInt(): Reads an integer value
+nextDouble(): Reads a double
+valuenextFloat(): Reads a float value
+nextLong(): Reads a long integer
+nextBoolean(): Reads a Boolean value
+
+BufferedReader(For large text):
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
