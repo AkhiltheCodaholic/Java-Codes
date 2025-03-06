@@ -23,5 +23,7 @@ public class copybook {
     public static void main(String[] args) {
         copybook obj = new copybook("Java", "Akhil", 100);
         obj.display();
+        copybook obj1 = new copybook(obj);
+        obj1.display();
     }
 }
