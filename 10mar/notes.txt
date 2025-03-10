@@ -1,0 +1,5 @@
+Declaration of variables
+Switch vs is
+String manipulation
+Hashcode is the reference to a existing String object
+compareTo in String Manipulation uses ASCII code to compare
