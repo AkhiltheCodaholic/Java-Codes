@@ -1,0 +1,5 @@
+Methods:
+Their types: Predefined, user defined.
+
+Recursion is a process of function calling itself it breakdown the problem into smaller problems
+base case - a condition to stop the recursion.
